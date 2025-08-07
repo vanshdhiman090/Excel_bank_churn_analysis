@@ -23,5 +23,5 @@
 .Verified for null values, outliers, and inconsistent entries
 .Ensured all fields were Excel/visualization-ready before analysis
 
-## Insights and Conclusion
-- <a href = "https://github.com/vanshdhiman090/Excel_bank_churn_analysis/blob/main/Insights%20and%20Conclusion">Insights and Conclusion</a>
+## Insights and Final Conclusion
+- <a href = "https://github.com/vanshdhiman090/Excel_bank_churn_analysis/blob/main/Insights%20and%20Conclusion">Insights and Final Conclusion</a>
