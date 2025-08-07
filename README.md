@@ -5,17 +5,17 @@
 
 ## Questions (KPIs)
 
-Which country has the highest customer churn rate and why?
-Which age group contributes most to churn, and what does this imply?
-Does customer activity status impact churn rate?
-How does credit score affect the likelihood of churn?
-At what customer tenure periods is churn highest?
+.Which country has the highest customer churn rate and why?
+.Which age group contributes most to churn, and what does this imply?
+.Does customer activity status impact churn rate?
+.How does credit score affect the likelihood of churn?
+.At what customer tenure periods is churn highest?
 
 ## Data Cleaning & Preprocessing Steps
 
-Removed unnecessary columns not relevant to churn analysis
-Checked and standardized data formats (e.g., dates, numbers, currency)
-Converted text-based numbers to numeric format where needed
-Created age group and credit score category columns using formulas
-Verified for null values, outliers, and inconsistent entries
-Ensured all fields were Excel/visualization-ready before analysis
+.Removed unnecessary columns not relevant to churn analysis
+.Checked and standardized data formats (e.g., dates, numbers, currency)
+.Converted text-based numbers to numeric format where needed
+.Created age group and credit score category columns using formulas
+.Verified for null values, outliers, and inconsistent entries
+.Ensured all fields were Excel/visualization-ready before analysis
