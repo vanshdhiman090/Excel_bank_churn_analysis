@@ -1,32 +1,22 @@
-# Insights
+ Insights
+
 🇩🇪 Germany has the highest churn rate at 32.44%, double that of France and Spain.
-
 Adults (40–59 yrs) account for the highest churn (1,293 customers).
-
 Non-active members churn almost 2× more than active ones (1,302 vs. 735).
-
 Low credit score customers (Poor/Very Poor) contribute most to churn.
-
 Churn is highest in early and mid-tenure (Years 1–3 & 9).
 
-# Final Conclusion
+ Final Conclusion
 
 The churn analysis reveals critical vulnerabilities in customer retention. The most churn-prone segments are:
-
 Customers from Germany
-
 Adults aged 40–59
-
 Non-active members
-
 Those with low credit scores
 
 To reduce churn, the bank should:
 
 Target Germany with improved service or retention campaigns
-
 Engage adult customers more effectively with tailored offers
-
 Encourage customers to become active members
-
 Support financial wellness to improve credit scores
