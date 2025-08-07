@@ -3,6 +3,9 @@
 ## Dataset Used
 - <a href="https://github.com/vanshdhiman090/Excel_bank_churn_analysis/blob/main/Bank%20Customer%20Churn%20Prediction.csv">dataset</a>
 
+## Dashboard
+- <a href="https://github.com/vanshdhiman090/Excel_bank_churn_analysis/blob/main/Screenshot%202025-08-07%20211624.png">dashboard</a>
+
 ## Questions (KPIs)
 
 .Which country has the highest customer churn rate and why?
