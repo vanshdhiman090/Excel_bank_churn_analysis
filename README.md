@@ -11,7 +11,7 @@ Does customer activity status impact churn rate?
 How does credit score affect the likelihood of churn?
 At what customer tenure periods is churn highest?
 
-##Data Cleaning & Preprocessing Steps
+## Data Cleaning & Preprocessing Steps
 
 Removed unnecessary columns not relevant to churn analysis
 Checked and standardized data formats (e.g., dates, numbers, currency)
