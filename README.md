@@ -8,6 +8,7 @@ This project analyzes a dataset of 10,000 bank customers to understand the drive
 # Dataset
 
 Total Customers: 10,000
+<br>
 Total Churned Customers: 2,037 (≈20.37%)
 
 # Features:
