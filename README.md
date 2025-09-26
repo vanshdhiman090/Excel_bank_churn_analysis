@@ -12,15 +12,15 @@ Total Customers: 10,000
 Total Churned Customers: 2,037 (≈20.37%)
 
 # Features:
-Demographics: age, gender, country
-Financials: credit_score, balance, estimated_salary
-Customer Relationship: tenure, products_number, active_member, credit_card
+Demographics: age, gender, country<br>
+Financials: credit_score, balance, estimated_salary<br>
+Customer Relationship: tenure, products_number, active_member, credit_card<br>
 Target Variable: churn (1 = churned, 0 = retained)
 
 # Dashboard Preview
 
-The project includes a dashboard visualization highlighting:
-Churn by country, age group, gender, tenure, and active membership
+The project includes a dashboard visualization highlighting:<br>
+Churn by country, age group, gender, tenure, and active membership<br>
 Overall churn rate and balance at risk
 
 ## Dataset Used
